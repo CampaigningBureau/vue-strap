@@ -8,10 +8,10 @@ This repository contains a set of native Vue.js components based on Bootstrap's 
 
 ## Installation
 
-### NPM
+### Yarn
 
 ```bash
-$ npm install github:wffranco/vue-strap --save
+$ yarn add https://github.com/CampaigningBureau/vue-strap
 ```
 
 ### CommonJS
@@ -70,6 +70,8 @@ and on both the Bower and NPM packages.
 
 ## Docs
 See the [documentation](https://wffranco.github.io/vue-strap/) with live editable examples.
+
+An additional `:disabled` attribute is available for the `typeahead` directive
 
 ## Local Setup
 * Run the docs site in development mode with `npm run docs`. This will watch for file changes as you work.
